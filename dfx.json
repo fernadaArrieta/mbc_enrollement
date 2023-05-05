@@ -1,5 +1,9 @@
 {
   "canisters": {
+    "first_canister": {
+      "main": "main.mo",
+      "type": "motoko"
+    },
     "mbc_enrollment_backend": {
       "main": "src/mbc_enrollment_backend/main.mo",
       "type": "motoko"
